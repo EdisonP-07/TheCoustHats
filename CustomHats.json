@@ -2,13 +2,13 @@
     "hats": [
         {
             "author": "EdisonP07",
-            "climbresource": "Sund_facemask_climb.png",
+            "climbresource": "Sund_Facemask_Wearable_Climb.png",
             "condition": "None",
             "name": "Sund",
             "package": "Community Hats",
-            "reshasha": "7939e7e3545f363b542505fda09d75c2",
-            "reshashc": "589CF4C3F9BF4AFFF5BF82C65AD743A0",
-            "resource": "Sund_facemask.png"
+            "reshasha": "75a6251a8f8aa17dd7e45a8a0b41ca7be4d67872",
+            "reshashc": "b60796a9975b3b8e32ed4b467b1490da",
+            "resource": "Sund_Facemask_Wearable.png"
         },
         {
             "author": "Palmer",
