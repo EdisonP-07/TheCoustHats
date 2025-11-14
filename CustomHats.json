@@ -1,6 +1,15 @@
 {
     "hats": [
         {
+            "author": "EdisonP07",
+            "climbresource": "Sund_facemask_climb.png",
+            "condition": "None",
+            "name": "Sund",
+            "package": "Community Hats",
+            "reshasha": "7939e7e3545f363b542505fda09d75c2",
+            "reshashc": "589CF4C3F9BF4AFFF5BF82C65AD743A0",
+            "resource": "Sund_facemask.png"
+        },
             "author": "Palmer",
             "bounce": true,
             "climbresource": "megaphone_climb.png",
