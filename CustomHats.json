@@ -22,6 +22,16 @@
         },
         {
             "author": "Coust",
+            "climbresource": "Sid_Face_Wearable_Climb.png",
+            "condition": "None",
+            "name": "Face - Sid",
+            "package": "Coust Hats",
+            "reshasha": "357c7daedee4ce8c91eef0f3737405f33d0ae392",
+            "reshashc": "ad50746dfa05e67a69c308f798dce923",
+            "resource": "Sid_Face_Wearable.png"
+        },
+        {
+            "author": "Coust",
             "climbresource": "Sund_Facemask_3_Wearable_Climb.png",
             "condition": "None",
             "name": "Facemask - Sund 3",
