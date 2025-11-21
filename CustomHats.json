@@ -5,7 +5,7 @@
             "climbresource": "Sund_Facemask_Wearable_Climb.png",
             "condition": "None",
             "name": "Facemask - Sund",
-            "package": "Community Hats",
+            "package": "Coust Hats",
             "reshasha": "45eb6e210e7d6b3d909d4da002c36c14338a7cac",
             "reshashc": "5bafdb26f6f406ae7e68a42b1b7dab5a",
             "resource": "Sund_Facemask_Wearable.png"
@@ -15,7 +15,7 @@
             "climbresource": "Sund_Facemask_2_Wearable_Climb.png",
             "condition": "None",
             "name": "Facemask - Sund 2",
-            "package": "Community Hats",
+            "package": "Coust Hats",
             "reshasha": "62594032caa4c350799e049b8018ff30f8165717",
             "reshashc": "b94248e41a8cf3119da1e81fb3937225",
             "resource": "Sund_Facemask_2_Wearable.png"
@@ -25,7 +25,7 @@
             "climbresource": "Sund_Facemask_3_Wearable_Climb.png",
             "condition": "None",
             "name": "Facemask - Sund 3",
-            "package": "Community Hats",
+            "package": "Coust Hats",
             "reshasha": "608243c27619e67a84df4959fca48bfa3044ee13",
             "reshashc": "9d9aeb9ffc1e479f6c48ef79f895139d",
             "resource": "Sund_Facemask_3_Wearable.png"
@@ -35,7 +35,7 @@
             "climbresource": "Krisp_Facemask_Wearable_Climb.png",
             "condition": "None",
             "name": "Facemask - Krisp",
-            "package": "Community Hats",
+            "package": "Coust Hats",
             "reshasha": "814011a72b9a02a05be087f59f30b3473e05ce47",
             "reshashc": "c2a2a9acc5e6b5cffb768b5239e876ee",
             "resource": "Krisp_Facemask_Wearable.png"
@@ -45,7 +45,7 @@
             "climbresource": "Milaoshu_Facemask_Wearable_Climb.png",
             "condition": "None",
             "name": "Facemask - Milaoshu",
-            "package": "Community Hats",
+            "package": "Coust Hats",
             "reshasha": "3e7be6eb5ee843549629818a967b07ccc263ee1a",
             "reshashc": "436bc9ff85f4f87c0c2a29ea3d4fe7ac",
             "resource": "Milaoshu_Facemask_Wearable.png"
@@ -55,7 +55,7 @@
             "climbresource": "Milaoshu_Facemask_2_Wearable_Climb.png",
             "condition": "None",
             "name": "Facemask - Milaoshu 2",
-            "package": "Community Hats",
+            "package": "Coust Hats",
             "reshasha": "3412d2a6958b5485b6cab9415e0df5193f2306c9",
             "reshashc": "e49b002b28348df82d3a61af4645191b",
             "resource": "Milaoshu_Facemask_2_Wearable.png"
@@ -65,7 +65,7 @@
             "climbresource": "Milaoshu_Facemask_3_Wearable_Climb.png",
             "condition": "None",
             "name": "Facemask - Milaoshu 3",
-            "package": "Community Hats",
+            "package": "Coust Hats",
             "reshasha": "3412d2a6958b5485b6cab9415e0df5193f2306c9",
             "reshashc": "e49b002b28348df82d3a61af4645191b",
             "resource": "Milaoshu_Facemask_3_Wearable.png"
@@ -75,7 +75,7 @@
             "climbresource": "Spink_Facemask_Wearable_Climb.png",
             "condition": "None",
             "name": "Facemask - Spink",
-            "package": "Community Hats",
+            "package": "Coust Hats",
             "reshasha": "03b63ce37f343ca51b0c2ee79c8a8cb9d741c7fd",
             "reshashc": "35d93263d3d5696d5ba93a511589e1f4",
             "resource": "Spink_Facemask_Wearable.png"
@@ -85,7 +85,7 @@
             "climbresource": "Spink_Facemask_2_Wearable_Climb.png",
             "condition": "None",
             "name": "Facemask - Spink 2",
-            "package": "Community Hats",
+            "package": "Coust Hats",
             "reshasha": "3118e3bb57c58a28b1c106b663bc690de33b636c",
             "reshashc": "1142424ab66d6d452d9ee144fe2b72cd",
             "resource": "Spink_Facemask_2_Wearable.png"
@@ -95,7 +95,7 @@
             "climbresource": "Spink_Facemask_3_Wearable_Climb.png",
             "condition": "None",
             "name": "Facemask - Spink 3",
-            "package": "Community Hats",
+            "package": "Coust Hats",
             "reshasha": "b58922417d8dee53e4b6dbd7bf31a9228a004e0e",
             "reshashc": "2eb3106a9c2abf6e6ffa69552945c12b",
             "resource": "Spink_Facemask_3_Wearable.png"
@@ -105,7 +105,7 @@
             "climbresource": "Mårdon_Facemask_Wearable_Climb.png",
             "condition": "None",
             "name": "Facemask - Mårdon",
-            "package": "Community Hats",
+            "package": "Coust Hats",
             "reshasha": "a5ff5f13fd86da04ef69588e234945a8c1362730",
             "reshashc": "98a877fc9ba08aa61744660142d28afe",
             "resource": "Mårdon_Facemask_Wearable.png"
@@ -115,7 +115,7 @@
             "climbresource": "Mårdon_Facemask_2_Wearable_Climb.png",
             "condition": "None",
             "name": "Facemask - Mårdon 2",
-            "package": "Community Hats",
+            "package": "Coust Hats",
             "reshasha": "6b468ea7b2361ba966ed4e2a93a90a8827e9af91",
             "reshashc": "00af46cb4518bc5fc7f40fc05a7cf42b",
             "resource": "Mårdon_Facemask_2_Wearable.png"
@@ -125,7 +125,7 @@
             "climbresource": "Mårdon_Facemask_3_Wearable_Climb.png",
             "condition": "None",
             "name": "Facemask - Mårdon 3",
-            "package": "Community Hats",
+            "package": "Coust Hats",
             "reshasha": "2ddd4f17c38844999612c279887a495df64adc73",
             "reshashc": "6bd730684d7360e27306a9192f467254",
             "resource": "Mårdon_Facemask_3_Wearable.png"
@@ -135,7 +135,7 @@
             "climbresource": "Mårdon_Facemask_4_Wearable_Climb.png",
             "condition": "None",
             "name": "Facemask - Mårdon 4",
-            "package": "Community Hats",
+            "package": "Coust Hats",
             "reshasha": "bbc6070538daf48de307c82792c9f4423c3a1c44",
             "reshashc": "83e26aa0dc56cc16931a66d7929602c6",
             "resource": "Mårdon_Facemask_4_Wearable.png"
