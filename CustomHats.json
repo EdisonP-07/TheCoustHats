@@ -22,16 +22,6 @@
         },
         {
             "author": "Coust",
-            "climbresource": "Sid_Face_Wearable_Climb.png",
-            "condition": "None",
-            "name": "Face - Sid",
-            "package": "Coust Hats",
-            "reshasha": "07d58cc3b26d14bf45588fa4bdaa7003d8180eb7",
-            "reshashc": "c2f00b9d1312ddb7ca94ede17a83c4d9",
-            "resource": "Sid_Face_Wearable.png"
-        },
-        {
-            "author": "Coust",
             "climbresource": "Sund_Facemask_3_Wearable_Climb.png",
             "condition": "None",
             "name": "Facemask - Sund 3",
@@ -39,6 +29,18 @@
             "reshasha": "608243c27619e67a84df4959fca48bfa3044ee13",
             "reshashc": "9d9aeb9ffc1e479f6c48ef79f895139d",
             "resource": "Sund_Facemask_3_Wearable.png"
+        },
+        {
+            "author": "Coust",
+            "climbresource": "Sid_Face_Wearable_Climb.png",
+            "condition": "None",
+            "flipresource": "Sid_Face_Wearable_Flip.png",
+            "name": "Face - Sid",
+            "package": "Coust Hats",
+            "reshasha": "07d58cc3b26d14bf45588fa4bdaa7003d8180eb7",
+            "reshashc": "c2f00b9d1312ddb7ca94ede17a83c4d9",
+            "reshashf": "7b3be9839961b597be3b069448d3c57d",
+            "resource": "Sid_Face_Wearable.png"
         },
         {
             "author": "Coust",
